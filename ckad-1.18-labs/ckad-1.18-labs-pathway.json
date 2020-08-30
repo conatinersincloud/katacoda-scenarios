@@ -1,0 +1,17 @@
+{
+  "title": "ckad-1.18-labs",
+  "description": "Lab environment for Certified Kubernetes Application Developer (CKAD) v1.18",
+  "courses": [
+    {
+      "title": "1.1 - Kubernets API (Core Concepts)",
+      "description": "Useful Kubernets API's / commands",
+      "id": "1-1-kubernets-api"
+    },
+    {
+      "title": "1.12 - Pods (Core Concepts) ",
+      "description": "Lab on Pod creation",
+      "id": "1-2-pods"
+    }
+  ]
+
+}
