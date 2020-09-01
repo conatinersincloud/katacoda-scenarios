@@ -1,11 +1,11 @@
 {
-  "title": "CKAD 1.18 Lab",
+  "title": "CKAD Lab",
   "description": "Certified Kubernetes Application Developer v1.18 Practice Lab",
   "courses": [
     {
-      "course_id": "kubernets-api",
-      "title": "1.1 Kubernets Api (Core Concepts)",
-      "description": "Useful API's / Commands"
+      "course_id": "pods",
+      "title": "1.1 Pods (Core concept)",
+      "description": "1.1 Pods (Core concept)"
     }
   ]
 }
