@@ -1,5 +1,5 @@
 ## Run Command
-Create a single container pod with name first-pod using image nginx and tag 1.18.0
+### Create a single container pod with name first-pod using image nginx and tag 1.18.0
 
 <details>
   <summary>Solution</summary>
@@ -10,7 +10,7 @@ Create a single container pod with name first-pod using image nginx and tag 1.18
 
 
 ## Get Command 
-View the created pod using ```get``` command
+### View the created pod using ```get``` command
 
 <details>
   <summary>Solution</summary> 
@@ -26,7 +26,7 @@ View the created pod using ```get``` command
 </details>
 
 ## Describe Command
-View the events of the pod using ```describe``` command
+### View the events of the pod using ```describe``` command
 
 <details>
   <summary>Solution</summary> 
