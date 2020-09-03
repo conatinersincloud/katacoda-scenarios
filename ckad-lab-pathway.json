@@ -1,5 +1,6 @@
 {
   "title": "CKAD Lab",
+  "icon": "fa-kubernetes",
   "description": "Certified Kubernetes Application Developer v1.18 Practice Lab",
   "courses": [
     {
