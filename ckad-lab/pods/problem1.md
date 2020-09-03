@@ -2,5 +2,5 @@
 
 <details>
   <summary>Solution</summary>
-    kubectl run first-pod --image=nginx:1.18.0 --restart=Never{{execute}}
+    `kubectl run first-pod --image=nginx:1.18.0 --restart=Never`{{execute}}
 </details>
