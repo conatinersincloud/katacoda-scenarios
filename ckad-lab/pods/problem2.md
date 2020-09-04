@@ -22,9 +22,9 @@ To edit pod you have two options in this case. Edit the pod using ```edit``` com
 
 <details>
   <summary>Solution</summary>
-    set command is handy if image is the only changes to be done. To use this you need to know what is the name of the conainer defined in the pod. In this case the container name is ```nginx```
+    set command is handy if image is the only changes to be done. To use this you need to know what is the name of the conainer defined in the pod. In this case the container name is ```error-pod```
         
-    `kubectl set image pod error-pod nginx=nginx:1.19.2 `{{execute}}  
+    `kubectl set image pod error-pod error-pod=nginx:1.19.2 `{{execute}}  
 
     You can inspect the status of the Pod using the Watch using --watch or -w
 

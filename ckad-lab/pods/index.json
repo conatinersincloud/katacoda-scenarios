@@ -12,7 +12,7 @@
       {
         "title": "Problem 2",
         "text": "problem2.md",
-        "code": "assets/problem2.sh"
+        "courseData": "assets/problem2.sh"
       },
       {
         "title": "Step 3",
