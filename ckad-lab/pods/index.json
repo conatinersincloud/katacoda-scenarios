@@ -16,7 +16,8 @@
       },
       {
         "title": "Problem 3",
-        "text": "problem3.md"
+        "text": "problem3.md",
+        "courseData": "assets/problem3.sh"
       },
       {
         "title": "POD Quiz",

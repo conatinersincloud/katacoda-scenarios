@@ -18,7 +18,8 @@
   <summary>Solution</summary> 
 Edit the pod in the terminal editior by : `kubectl edit pod prep-pod -n prep`{{execute}}  
 
-Ref to below snippet of the container:
+Ref to below snippet of the container:  
+  
 
     spec:
     containers:
@@ -60,6 +61,21 @@ Ref to below snippet of the container:
  `kubectl create -f /tmp/<YAML_FILE_NAME>.yml -n prep`{{copy}}  
   
 Once succesfully created view the status of the pod by `kubectl get pod -n prep`{{execute}}.
+
+</details>
+
+---
+
+## Logs command
+### View the logs of the container to ensure the above command did executed successfullly.
+
+<details>
+  <summary>Solution</summary> 
+  Use the `logs` command to view the any logs the container spits out during execitin. As in our case, container runs the `echo dummy` we shold se the message in its log.
+
+ `kubectl logs prep-pod -n prep`{{execute}}  
+  
+For single container pod its not required to mention the container name to indicate which container pod logs is being asked.
 
 </details>
 
