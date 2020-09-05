@@ -1,6 +1,6 @@
 ##
 ---
-Quiz Answers are explained in below video.
+Quiz answers are explained in below video.
 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
