@@ -19,8 +19,9 @@
         "text": "step3.md"
       },
       {
-        "title": "Step 4",
-        "text": "step4.md"
+        "title": "POD Quiz",
+        "text": "quiz.md",
+        "courseData": "assets/quiz.sh"
       },
       {
         "title": "Step 5",
