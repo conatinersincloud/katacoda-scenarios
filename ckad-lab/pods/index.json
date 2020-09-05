@@ -25,8 +25,8 @@
         "courseData": "assets/quiz.sh"
       },
       {
-        "title": "Step 5",
-        "text": "step5.md"
+        "title": "Quiz Answers",
+        "text": "quiz-answers.md"
       }
     ],
     "intro": {

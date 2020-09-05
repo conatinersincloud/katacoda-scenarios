@@ -15,6 +15,8 @@
 
 </details>
 
+---
+
 ## SET Command
 To edit pod you have two options in this case. Edit the pod using ```edit``` command or use ```set``` command to set the correct image. Here set command is preferred.
 

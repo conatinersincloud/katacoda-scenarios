@@ -8,24 +8,24 @@
 ( ) 2
 (*) 3
 
->>Q2: Which pod is associated with the image tag `1.32.0-uclibc`{{copy}} (Intermediate)<<
+>>Q2: Which pod is associated with the image tag 1.32.0-uclibc (Intermediate)<<
 ( ) busybox1
 ( ) busybox2
 (*) busybox3
 ( ) busybox4
 
->>Q3 What command is used when creating the `busybox2`{{copy}}. (Intermediate)<<
+>>Q3 What command is used when creating the busybox2 (Intermediate)<<
 ( ) sleep 3600
 (*) sleep 4600
 ( ) sleep 5600
 
->>Q4 Which is not a valid mount in the `busybox3`{{copy}} container. (Hint: run 'ls' command inside the continer) (Intermediate)<<
+>>Q4 Which is not a valid mount in the busybox3 container. (Hint: run 'ls' command inside the continer) (Intermediate)<<
 ( ) bin
 (*) user
 ( ) tmp
 ( ) var
 
->>Q5: Pod `busybox1`{{copy}} is assigned to which node (Beginner)<<
+>>Q5: Pod busybox1 is assigned to which node. Write your answer in below space (Beginner)<<
 === node01
 
 >>Q6: Select all namespaces that exist in the cluster (Beginner)<<
