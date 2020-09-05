@@ -1,7 +1,5 @@
-##
-
----
-
+  
+  
 ## INSPECT Pod
 ### Inspect the POD that has been created in the default namespace and note the status of the pod
 

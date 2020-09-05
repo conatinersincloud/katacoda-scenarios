@@ -1,7 +1,5 @@
-##
-
----
-
+  
+  
 ## Namespace
 ### Identify the namespace in which pod `prep-pod`{{copy}} has been created.
 
