@@ -20,7 +20,7 @@
 (*) sleep 4600
 ( ) sleep 5600
 
->>Q4 Which is not a valid mount in the busybox3 container. (Hint: run 'ls' command inside the continer) (Intermediate)<<
+>>Q4 Which is not a valid mount in the busybox3 container. (Intermediate)<<
 ( ) bin
 (*) user
 ( ) tmp
